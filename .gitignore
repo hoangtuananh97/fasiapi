@@ -1,4 +1,5 @@
 .vscode
 .mypy_cache
 docker-stack.yml
-.pytest_cache
+.pytest_cache/
+*.pyc

@@ -1,2 +1,3 @@
 .cache
 app/api/v1/__pycache__/
+*.pyc
